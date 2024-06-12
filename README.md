@@ -4,7 +4,7 @@
 
 **01-ascii**
 
-- Crea una función en JavaScript que reciba un número entero y devuelva el carácter ASCII correspondiente.
+- Trastea JavaScript que reciba un número entero y devuelva el carácter ASCII correspondiente.
 - Prueba la función con varios números, por ejemplo, 66, 67 y 68.
 
 ## Conversión de ASCII a UTF-8
